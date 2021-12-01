@@ -36,7 +36,6 @@
     transform: rotate(360deg);
   }
 }
-.look{
-  margin-bottom: 100 px;
-  color:red;
+.marg{
+  margin-bottom:30px;
 }
